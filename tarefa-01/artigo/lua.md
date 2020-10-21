@@ -20,7 +20,7 @@ Por ter sido desenvolvida completamente em ANSI C, bibliotecas de Lua podem ser 
 
 Lua é uma linguagem de tipagem dinâmica e compilada que utiliza um ambiente que os seus recursos são suportados e utlizados em tempo de execução. A linguagem oferece um ambiente de interpretação REPL (Read-eval-print loop) que permite o usuário usufruir das características dinâmicas da linguagem.
 
-### Multiplos paradimas
+### Multiplos paradigmas
 
 Lua oferece um conjunto de caracteristicas que podem ser extendidas para resolução de diversos tipos de problemas, em vez de fornecer uma especificação mais rigida e complexa de um único paradigma. Lua permite ao usuário na implementação de nomes e funções, emprego de técnicas de programação funcional e completos escopos lexicais. Lua embora seja de multiplo paradigma não foi construída para oferecer suporte uma programação orientada a objetos.
 
