@@ -24,6 +24,8 @@ Lua é uma linguagem de tipagem dinâmica e compilada que utiliza um ambiente qu
 
 Lua oferece um conjunto de caracteristicas que podem ser extendidas para resolução de diversos tipos de problemas, em vez de fornecer uma especificação mais rigida e complexa de um único paradigma. Lua permite ao usuário na implementação de nomes e funções, emprego de técnicas de programação funcional e completos escopos lexicais. Lua embora seja de multiplo paradigma não foi construída para oferecer suporte uma programação orientada a objetos.
 
-## Metatabelas e Metamétodos
+## Funcionalidades e de alta expressividade
+
+### Metatabelas e Metamétodos
 
 Lua é uma linguagem que não é orientada a objetos, no entanto, esta é orientada a tabelas, metatabelas e metamétodos, estes que emulam o funcionamenteo de classes e objetos dentro da linguagem. Metatabelas controlam o comportamento de estruturas de dados na linguagem, esta utliza de chaves,  que são derivadas a partir de nomes dos eventos; o os valores correspondentes a estes são chamados de metamétodos. Um exemplo é o evento "add", o seu metamétodo é a função que realiza a adição.
